@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1697655633 source:c:\users\seyfu\onedrive\masaüstü\c\struct\union\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

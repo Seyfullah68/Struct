@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1699498523 source:c:\users\seyfu\onedrive\masaüstü\c\struct\meyve\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
